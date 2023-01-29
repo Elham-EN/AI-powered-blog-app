@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: rgb(237, 234, 229);
+}
+
+.form-control::-webkit-input-placeholder {
+  color: #c0c0c0;
+}
+.form-control:-moz-placeholder {
+  color: #c0c0c0;
+}
+.form-control::-moz-placeholder {
+  color: #c0c0c0;
+}
+.form-control:-ms-input-placeholder {
+  color: #c0c0c0;
+}
