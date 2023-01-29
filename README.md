@@ -24,6 +24,6 @@ Create .env file in your root directory and add this environment variable
 VITE_API_KEY=<Your OPENAI API Key>
 ```
 
-![alt text](https://giphy.com/gifs/zvBtdjt0ahzj44UkyN)
+<iframe src="https://giphy.com/embed/zvBtdjt0ahzj44UkyN" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/zvBtdjt0ahzj44UkyN">via GIPHY</a></p>
 
-![alt text](https://giphy.com/gifs/9Jo57Hymim4nT4OTpk)
+<iframe src="https://giphy.com/embed/9Jo57Hymim4nT4OTpk" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/9Jo57Hymim4nT4OTpk">via GIPHY</a></p>
